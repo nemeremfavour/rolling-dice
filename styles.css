@@ -29,7 +29,7 @@ p {
 }
 
 img {
-  width: 80%;
+  width: calc(60% + 0.3vw);
 }
 
 footer {
